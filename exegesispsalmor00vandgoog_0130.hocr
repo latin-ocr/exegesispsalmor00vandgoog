@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./exegesispsalmor00vandgoog_0130.png"; bbox 0 0 3570 4754; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 286 133 1567 603">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 286 133 1567 603">
+     <span class='ocr_line' id='line_1_1' title="bbox 286 133 1567 498; textangle 90"><span class='ocrx_word' id='word_1_1' title='bbox 286 280 889 498; x_wconf 40' lang='grc' dir='ltr'><strong>ἓξὲξ</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 928 133 1567 476; x_wconf 38' lang='grc' dir='ltr'><strong>ἒτμέἕ</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 292 500 1453 603; textangle 90"><span class='ocrx_word' id='word_1_3' title='bbox 292 513 333 596; x_wconf 72' lang='lat'><strong>.„.</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 369 501 399 538; x_wconf 86' lang='lat'><strong>..</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 518 502 631 603; x_wconf 61' lang='lat' dir='ltr'><strong>e„</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 757 500 783 534; x_wconf 82' lang='grc'><strong>.,</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1378 512 1453 599; x_wconf 83' lang='grc'><strong>...</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 260 483 1577 806">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 260 483 1577 806">
+     <span class='ocr_line' id='line_1_3' title="bbox 260 483 1577 704; textangle 90"><span class='ocrx_word' id='word_1_8' title='bbox 260 488 287 538; x_wconf 51' lang='grc'>,</span> <span class='ocrx_word' id='word_1_9' title='bbox 1345 483 1577 704; x_wconf 43' lang='lat' dir='ltr'><strong>Q}</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 1256 671 1573 806; textangle 90"><span class='ocrx_word' id='word_1_10' title='bbox 1256 680 1403 806; x_wconf 48' lang='lat'><strong>22»</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1527 671 1573 735; x_wconf 52' lang='lat' dir='ltr'><em>z</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 284 476 1089 855">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 284 476 1089 855">
+     <span class='ocr_line' id='line_1_5' title="bbox 317 476 1089 722; textangle 90"><span class='ocrx_word' id='word_1_12' title='bbox 317 476 517 679; x_wconf 58' lang='grc' dir='ltr'>ἒ</span> <span class='ocrx_word' id='word_1_13' title='bbox 635 483 884 721; x_wconf 52' lang='lat' dir='ltr'><strong>„f</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 1073 693 1089 722; x_wconf 83' lang='lat'><strong>.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 284 709 1014 855; textangle 90"><span class='ocrx_word' id='word_1_15' title='bbox 284 709 311 740; x_wconf 84' lang='grc'><strong>..</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 431 730 677 830; x_wconf 58' lang='lat'><strong>02.</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 981 741 1014 855; x_wconf 40' lang='lat' dir='ltr'><strong>„w</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1790 4754">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1790 4754">
+     <span class='ocr_line' id='line_1_7' title="bbox 0 0 1790 4754; textangle 90"><span class='ocrx_word' id='word_1_18' title='bbox 0 0 1790 4754; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
